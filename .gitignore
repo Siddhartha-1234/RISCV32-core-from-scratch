@@ -1,0 +1,15 @@
+RISCV_Build_Guide.md
+alu_4bit_tb.v
+alu_4bit.vcd
+alu_4bit.vvp
+alu_4bit.v
+alu_sim
+ai/
+pc.v
+program.hex
+imem.v
+dmem.v
+control.v
+regfile.v
+PCsim
+*.vcd
